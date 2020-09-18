@@ -1,9 +1,0 @@
-[0m[[0mdebug[0m] [0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m
-[0m[[0minfo[0m] [0m	published spark-nlp_2.12 to /home/federico/.ivy2/local/com.johnsnowlabs.nlp/spark-nlp_2.12/2.4.4/docs/spark-nlp_2.12-javadoc.jar[0m
-[0m[[0minfo[0m] [0m	published spark-nlp_2.12 to /home/federico/.ivy2/local/com.johnsnowlabs.nlp/spark-nlp_2.12/2.4.4/poms/spark-nlp_2.12.pom[0m
-[0m[[0minfo[0m] [0m	published spark-nlp_2.12 to /home/federico/.ivy2/local/com.johnsnowlabs.nlp/spark-nlp_2.12/2.4.4/docs/spark-nlp_2.12-tests-javadoc.jar[0m
-[0m[[0minfo[0m] [0m	published spark-nlp_2.12 to /home/federico/.ivy2/local/com.johnsnowlabs.nlp/spark-nlp_2.12/2.4.4/srcs/spark-nlp_2.12-sources.jar[0m
-[0m[[0minfo[0m] [0m	published spark-nlp_2.12 to /home/federico/.ivy2/local/com.johnsnowlabs.nlp/spark-nlp_2.12/2.4.4/jars/spark-nlp_2.12.jar[0m
-[0m[[0minfo[0m] [0m	published spark-nlp_2.12 to /home/federico/.ivy2/local/com.johnsnowlabs.nlp/spark-nlp_2.12/2.4.4/jars/spark-nlp_2.12-tests.jar[0m
-[0m[[0minfo[0m] [0m	published spark-nlp_2.12 to /home/federico/.ivy2/local/com.johnsnowlabs.nlp/spark-nlp_2.12/2.4.4/srcs/spark-nlp_2.12-tests-sources.jar[0m
-[0m[[0minfo[0m] [0m	published ivy to /home/federico/.ivy2/local/com.johnsnowlabs.nlp/spark-nlp_2.12/2.4.4/ivys/ivy.xml[0m
