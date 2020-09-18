@@ -1,2 +1,2 @@
-[0m[[33mwarn[0m] [0mCredentials file /home/federico/.bintray/.credentials does not exist[0m
-[0m[[33mwarn[0m] [0mCredentials file /home/federico/.ivy2/.sbtcredentials does not exist[0m
+[warn] Credentials file /home/federico/.bintray/.credentials does not exist
+[warn] Credentials file /home/federico/.ivy2/.sbtcredentials does not exist

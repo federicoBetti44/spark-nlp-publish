@@ -2,5 +2,12 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <profile name="sbt 1" modules="spark-nlp-publish_7373" />
+    <profile name="sbt 2" modules="spark-nlp">
+      <option name="implicitConversions" value="true" />
+      <option name="featureWarnings" value="true" />
+      <plugins>
+        <plugin path="$USER_HOME$/.ivy2/cache/org.typelevel/kind-projector_2.12.10/jars/kind-projector_2.12.10-0.11.0.jar" />
+      </plugins>
+    </profile>
   </component>
 </project>

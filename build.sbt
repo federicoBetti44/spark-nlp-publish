@@ -68,9 +68,9 @@ releaseProcess := Seq[ReleaseStep](
 // publish test jar, sources, and docs
 publishArtifact in Test := false
 
-githubOwner := "metreta"
-githubRepository := "meta-spark-nlp"
-githubTokenSource := TokenSource.GitConfig("github.token")
+//githubOwner := "metreta"
+//githubRepository := "meta-spark-nlp"
+//githubTokenSource := TokenSource.GitConfig("github.token")
 
 
 /** Bintray settings */
@@ -177,10 +177,10 @@ lazy val root = (project in file("."))
         testDependencies ++
         utilDependencies ++
         tensorflowDependencies++
-        typedDependencyParserDependencies
+        typedDependencyParserDependencies,
 
-    publishTo := Some(Resolver.githubPackages("metreta", "meta-spark-nlp")),
-    addCompilerPlugin("org.typelevel" %% "kind-projector" % "0.11.0" cross CrossVersion.full),
+//    publishTo := Some(Resolver.githubPackages("metreta", "meta-spark-nlp")),
+    addCompilerPlugin("org.typelevel" %% "kind-projector" % "0.11.0" cross CrossVersion.full)
   )
 
 assemblyMergeStrategy in assembly := {
