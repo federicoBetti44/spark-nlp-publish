@@ -3,3 +3,5 @@
 /target/
 /project/target/
 target/*
+/project/project/target/
+project/target/
