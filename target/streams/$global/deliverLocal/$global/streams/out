@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: com.johnsnowlabs.nlp#spark-nlp_2.12;2.4.4 :: 2.4.4 :: release :: Thu Sep 17 20:44:13 CEST 2020[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Thu Sep 17 20:44:13 CEST 2020 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /home/federico/workspace/spark-nlp-2.4.4/spark-nlp-2.4.4/target/scala-2.12/ivy-2.4.4.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (19ms)[0m
